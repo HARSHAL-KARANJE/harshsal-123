@@ -27,7 +27,8 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   padding: 10px 20px;
-  margin: 5px 0; 
+  margin: 4px 0; /* tighter spacing */
+    display: block; 
 }
 
 .nav-logo {
@@ -225,3 +226,4 @@ footer {
   }
 
 }
+
