@@ -27,6 +27,7 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   padding: 10px 20px;
+  margin: 5px 0; 
 }
 
 .nav-logo {
@@ -222,4 +223,5 @@ footer {
   .nav-logo {
     margin-bottom: 10px;
   }
+
 }
